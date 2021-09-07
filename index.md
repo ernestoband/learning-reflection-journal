@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Live Reflection Journal
 
 You can use the [editor on GitHub](https://github.com/ernestoband/learning-reflection-journal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
